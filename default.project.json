@@ -1,0 +1,7 @@
+{
+	"name": "lunchbox",
+	"tree": {
+		"$ignoreUnknownInstances": true,
+		"$path": "libs"
+	}
+}
